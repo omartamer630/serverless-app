@@ -38,6 +38,10 @@
   10- added Trust to URL of S3(static website url) and DNS to CORS in API Gateway
     ![image](https://github.com/user-attachments/assets/01a0a99d-36f9-4953-9911-d7f93c92a334)
 
+  11- used Cloudfront
+    ![image](https://github.com/user-attachments/assets/08003198-9288-40e2-9f1d-30d63a206df7)
+
+
 ## Final Result
 
 ![image](https://github.com/user-attachments/assets/1b51cc86-d347-477b-ba2e-ac1d2d6d5bb6)
