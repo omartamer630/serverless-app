@@ -35,7 +35,7 @@
     attach certificate to API Gateway
     ![image](https://github.com/user-attachments/assets/b0164aa5-7810-477c-b20b-28e8c7011824)
 
-  10- added Trust to URL of S3(static website url) and DNS to CORS 
+  10- added Trust to URL of S3(static website url) and DNS to CORS in API Gateway
     ![image](https://github.com/user-attachments/assets/01a0a99d-36f9-4953-9911-d7f93c92a334)
 
 ## Final Result
