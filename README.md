@@ -8,7 +8,7 @@
  # Dynamodb
  - Dynamodb is a Serverless DB which is Fully managed by AWS, Using NoSQL, purpose-built to deliver improved performance, scalability, manageability, and flexibility compared to traditional relational databases, when you create a table you must specify a primary key
    ![image](https://github.com/user-attachments/assets/0e91bbed-3a7d-4015-904a-6540ee21a06d)
-   1- I have created DB using Dynamodb services in AWS, And email is the partition key so I can receive The data from the lambda function
+   1- I have created DB using Dynamodb services in AWS, And email is the primary key so I can receive The data from the lambda function
  
 # IAM policy and role
   2- I Created an IAM policy and Role for the three Lambda functions so it can access dynamodb(for db) and cloud watch(for logs)
