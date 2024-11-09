@@ -1,5 +1,5 @@
 # (Project) Serverless App
-![Automated Photo](https://github.com/user-attachments/assets/5f7ff71f-432d-4c98-92fe-279d304eeb8d)
+![Automated Photo](Automated.gif)
   ### Project Overview
   This Serverless Application project focuses on creating a scalable and secure API-based cloud infrastructure using AWS services. The architecture utilizes DynamoDB for database storage, AWS Lambda for serverless function execution, and API Gateway for managing API endpoints. Security and availability are prioritized through Route 53 for DNS management and ACM for SSL certification. The front end is hosted as a static website on S3, with CloudFront providing CDN support for improved performance and reliability.
   ### Purpose
