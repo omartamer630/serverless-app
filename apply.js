@@ -10,7 +10,6 @@ export const handler = async (event) => {
     
     let TableName = "raffle_db";
     let body;
-
     try {
         if(event.body){
             try{

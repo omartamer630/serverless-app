@@ -1,7 +1,6 @@
 import { DynamoDBClient, ScanCommand } from "@aws-sdk/client-dynamodb";
 
 const client = new DynamoDBClient({});
-
 export const handler = async (event, context) => {
     console.log("---devops90---start-handler");
     console.log("---devops90---event", event);

@@ -3,7 +3,6 @@ import { DynamoDBDocumentClient, ScanCommand, UpdateCommand } from "@aws-sdk/lib
 
 const dynamo = new DynamoDBClient({});
 const client = DynamoDBDocumentClient.from(dynamo);
-
 export const handler = async (event) => {
     console.log("---devops90---start-handler");
     console.log("---devops90---event", event);
